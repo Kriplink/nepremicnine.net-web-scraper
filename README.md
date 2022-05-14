@@ -7,7 +7,7 @@ NOTE: *By default, this only returns apartments that have coordinates, which als
 
 1. Require this in your application.
 ```javascript
-const nepremicnineWebScraper = require('nepremicnineWebScraper')
+const nepremicnineWebScraper = require('nepremicnine-web-scraper')
 ```
 
 2. Initialize an instance of WebScraper, that takes a Google GeoCode API key as a constructor argument. 
