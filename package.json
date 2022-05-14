@@ -1,0 +1,17 @@
+{
+  "name": "nepremicnine-web-scraper",
+  "version": "1.1.2",
+  "description": "A web scraper for nepremicnine.net",
+  "main": "nepremicnine-web-scraper.js",
+  "author": "Kriplink",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "node-geocoder": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kriplink/nepremicnine.net-web-scraper"
+  }
+}
