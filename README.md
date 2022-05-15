@@ -1,5 +1,5 @@
 # nepremicnine.net web scraper
-This is a web scraper for nepremicnine.net, that I created for personal use on a school project. It currently only supports the apartments that are for sale and are being rented, but I might add support for houses, vacation homes, and other types of real-estate.
+This is a web scraper for nepremicnine.net, that was created for personal use on a school project. It currently only supports the apartments that are for sale and are being rented. Support for houses, vacation homes, and other types of real-estate, may be added in the future.
 
 NOTE: *By default, this only returns apartments that have coordinates, which also gives an address via the GeoCode API. If you want ALL of the apartments, simply comment out line 100 in nepremicnine-web-scraper.js*
 
