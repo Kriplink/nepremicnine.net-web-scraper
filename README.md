@@ -23,4 +23,4 @@ webScraper.scrape("juzna-primorska/stanovanje/velikost-od-50-do-100-m2/")
 The arguments can be found in the URL on [nepremicnine.net](https://www.nepremicnine.net/), when you search for specific apartments with conditions.
 ![Arguments](https://user-images.githubusercontent.com/48378286/168442605-16cec95e-d890-496f-a854-977f579d533e.png)
 
-4. That's it. After the function finishes, which might take a few minutes, an array filled with Apartment objects are returned. 
+4. That's it. After the function finishes, which might take a few minutes, an array filled with Apartment objects is returned. 
